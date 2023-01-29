@@ -1,0 +1,1 @@
+esta carpeta es para el curso "aprende html construyendo una aplicacion de foto de gatos"
